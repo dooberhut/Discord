@@ -1,0 +1,5 @@
+[build]
+# Railway will detect Dockerfile automatically.
+
+[deploy]
+startCommand = "python bot.py"
